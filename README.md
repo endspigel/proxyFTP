@@ -1,6 +1,6 @@
 # Programmation Réseau : Réalisation d’un mini-programme proxy FTP
 Consignes : 
-==========
+---------
 On désire utiliser le client FTP sous DOS. Celui-ci ne dispose pas du mode passif. Par contre, on ne peut aller sur le réseau public à cause d’un problème de décalage de signalisation. On vous demande donc de réaliser un proxy qui permette de prendre en charge le mode actif d’un côté et de relayer en mode passif de l’autre.
 Un utilisateur souhaitant établir une session FTP via le proxy s’identifiera en tant que nomlogin@nomserveur. Le programme client établit une connexion de contrôle avec le proxy et lui transmet la commande USER nomlogin@nomserveur qui permet au proxy d’établir une connexion de contrôle sur la machine de nom nomserveur et d’identifier
 l’utilisateur à l’aide de nomlogin. Le proxy doit pouvoir tourner sur n’importe quelle machine.
