@@ -8,4 +8,4 @@ Le travail à réaliser consiste à développer un proxy FTP actif/passif permet
 d’autre afin de relayer les commandes et réponses du protocole FTP.
 2) Dans un second temps on gérera les connexions de données
 
-*Ce projet n'est pas totalement terminé et a été réalisé à des fins d'apprentissages à de l'apprentissage.*
+*Ce projet n'est pas totalement terminé et a été réalisé à des fins d'apprentissage.*
